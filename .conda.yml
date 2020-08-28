@@ -1,0 +1,9 @@
+name: renderscore
+channels:
+- defaults
+dependencies:
+  - python=2.7
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
