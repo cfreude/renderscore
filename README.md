@@ -3,7 +3,7 @@
 ## Description
 
 An implementation of the renderscore.
-It enables the comparison of MC rendering algorithm (using Mitsuba).
+It enables the comparison of MC rendering algorithms (using Mitsuba) as outlined in the corresponding [technical report](https://www.cg.tuwien.ac.at/research/publications/2020/freude_2020_rs/). 
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Additional:
 1. Setup your Python installation.
 (for Anaconda users see .conda.yml)
 
-2. Download Mitsuba from: https://www.mitsuba-renderer.org/index_old.html (see documentation to ensure that Python will be able to find the Mitsuba core libraries)
+2. Download or build [Mitsuba](https://www.mitsuba-renderer.org/index_old.html) (see documentation to ensure that Python will be able to find the Mitsuba core libraries)
 
 3. Copy or install the this module.
 
